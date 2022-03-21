@@ -285,40 +285,7 @@ footer li a.rd:hover{
 	color:#fff;
 }
 
-#mision-vision{
-	color: #323236;
-	text-align: center;
-	background-position: center;
-	margin: 20px 0px;
-}
 
-#mision-vision .texto{
-	margin: 70px 0px;
-}
-
-#mision-vision h2, #mision-vision h3{
-	color: #323236;
-	line-height: 1.2;
-	margin-bottom: 15px;
-}
-
-#mision-vision h4 {
-	color: #323236;
-	line-height: 1.5;
-	margin-top: 25px;
-}
-
-#quienes-somos{
-	margin: 20px 0;
-}
-#quienes-somos h1, #quienes-somos h3, #quienes-somos p{
-	margin: 20px 0px;
-	color: #323236;
-	text-align: center;
-}
-#quienes-somos .equipo{
-	background-color:#D9984A;
-}
 
 #contact-form h2{
 	color: #323236;
